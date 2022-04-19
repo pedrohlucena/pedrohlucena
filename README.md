@@ -1,15 +1,11 @@
 # Hi, I'm Pedro Lucena 😄
 
 <p align="left"> 
-  👋 Hello World! My name is Pedro Lucena, I'm 18 years old, I grew up and have always lived in São Paulo, capital, Brazil.
+  👋 Hello World! My name is Pedro Lucena, I'm 19 years old, I grew up and have always lived in São Paulo, capital, Brazil.
 </p>
 
 <p align="left"> 
-  I'm currently studying how to create REST APIs. The current project I'm working on is focused on making managing employees and squads easier. In it I'm putting into practice the knowledge of: NodeJS, PostgreSQL, MongoDB, Clean Code, Software Architecture and Git.
-</p>
-
-<p align="left">
-  📚 I've been working hard to become a Node expert and recently started learning PostgreSQL, Software Architecture and Clean Code.
+  I'm currently taking a course on Java fundamentals. This course is a course that takes from the most basic concepts of OOP, goes through basic aspects of the language and its structures, to more complex things like database access.
 </p>
 
 <p align="left">
@@ -17,7 +13,7 @@
 </p>
 
 <p align="left">
-  ❤️ I've been passionately in love with technology since I was a kid, especially video games😅 I like skateboarding and listening to music.
+  ❤️ I've been passionately in love with technology since I was a kid, especially video games😅 I like to listen and make music.
 </p>
 
 <p align="left">
@@ -41,6 +37,9 @@
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
   
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
