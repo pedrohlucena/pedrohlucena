@@ -5,7 +5,7 @@
 </p>
 
 <p align="left"> 
-  I'm currently taking a course on Java fundamentals. This course is a course that takes from the most basic concepts of OOP, goes through basic aspects of the language and its structures, to more complex things like database access.
+  I am currently taking my first course on AWS, I decided to start this course in order to introduce myself to your products and services that are so beneficial in the world of technology, there is still a lot waiting for me!
 </p>
 
 <p align="left">
