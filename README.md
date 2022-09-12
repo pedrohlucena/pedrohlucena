@@ -9,10 +9,6 @@
 </p>
 
 <p align="left">
-  🔭 I'm looking for my first opportunity as a Node.js backend programmer.
-</p>
-
-<p align="left">
   ❤️ I've been passionately in love with technology since I was a kid, especially video games😅 I like to listen and make music.
 </p>
 
