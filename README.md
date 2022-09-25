@@ -1,19 +1,19 @@
-# Hi, I'm Pedro Lucena 😄
+# Hi ^^
 
 <p align="left"> 
-  👋 Hello World! My name is Pedro Lucena, I'm 19 years old, I grew up and have always lived in São Paulo, capital, Brazil.
+  👋 Beauty guys? My name is Pedro Lucena, I'm from Brazil and I always lived here in São Paulo 
 </p>
 
 <p align="left"> 
-  I am currently taking my first course on AWS, I decided to start this course in order to introduce myself to your products and services that are so beneficial in the world of technology, there is still a lot waiting for me!
+  👨‍🦱 A little bit about me, I'm an EXTREMELY CURIOUS person, even, sometimees too much😅 I always like to research more than planned when I'm learning something. I'm completely passionate about logic and challenges, it is very satisfying for me when I can create a solution to a problem through technology. 
+</p>
+
+<p align="left"> 
+  📖 I'm currently studying Typescript and UML diagrams, more specifically class and sequence diagrams, this to solve a challenge that was assigned to me. In parallel I'm studying CRUD in Java for challenge.
 </p>
 
 <p align="left">
-  ❤️ I've been passionately in love with technology since I was a kid, especially video games😅 I like to listen and make music.
-</p>
-
-<p align="left">
- 🧩 I'm always studying and challenging myself to improve even more, it's amazing to keep thinking and thinking to find solutions to problems and then see everything working🥰
+  🪅 In my spare time i like watch movies, read books and listen music. I really like Lord of Rings and Bossa Nova🥰
 </p>
 
 <div align="center">
@@ -21,41 +21,16 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pedrohlucena&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohlucena&layout=compact&langs_count=7&theme=cobalt2"/>
 </div>
-
+  
 #
-  
-### My Stacks
 
-<div style="display: inline_block">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-          
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-  
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-  
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
-  
-  ##
- 
+### Talk to me 
+
 <div>
   <a href = "https://api.whatsapp.com/send?phone=11972669231"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrohlucena413@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedrohlucena1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
  
   ![Snake animation](https://github.com/pedrohlucena/pedrohlucena/blob/output/github-contribution-grid-snake.svg)
  
