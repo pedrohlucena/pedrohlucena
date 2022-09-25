@@ -9,7 +9,7 @@
 </p>
 
 <p align="left"> 
-  📖 I'm currently studying Typescript and UML diagrams, more specifically class and sequence diagrams, this to solve a challenge that was assigned to me. In parallel I'm studying CRUD in Java for challenge.
+  📖 I'm currently studying Typescript and UML diagrams, more specifically class and sequence diagrams, this to solve a challenge that was assigned to me. In parallel I'm studying CRUD in Java for college.
 </p>
 
 <p align="left">
@@ -24,7 +24,7 @@
   
 #
 
-### Talk to me 
+### Talk to me!
 
 <div>
   <a href = "https://api.whatsapp.com/send?phone=11972669231"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
